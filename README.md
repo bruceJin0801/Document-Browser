@@ -29,9 +29,13 @@
 
   •Users are able to <ins>**delete a file or directory**</ins>, by selecting the item, and then pressing a delete icon on the toolbar, or selecting Action - Delete from the menu bar. You must prompt the user with a confirmation dialog before proceeding (i.e. ask them if they wish to delete the item, and give them a chance to cancel this operation).
 
+<img width="500" alt="截屏2022-08-06 下午4 38 14" src="https://user-images.githubusercontent.com/85118325/183265381-e114c703-7d94-4722-a1eb-8f904cbd33b7.png">
+
 <h2>4.User can show or hide hidden files:</h2>
 
 •There should be a toggle option on the menubar Option - <ins>**Show Hidden Files**</ins> that determines if hidden files are shown or not. It should default to hiding hidden files. Changing this option should immediately be reflected in the file list, and should persist as the user navigates.
+
+<img width="500" alt="截屏2022-08-06 下午4 38 28" src="https://user-images.githubusercontent.com/85118325/183265391-f5618a6d-c225-468e-8101-9c8cdad0271a.png">
 
 <h2>5.The right-hand side will display the content of the selected file:</h2>
 
@@ -45,7 +49,7 @@
 
   •If the file is unreadable for any reason, it will show display the text “File cannot be read” in the contents pane.
 
-
+<img width="500" alt="截屏2022-08-06 下午4 38 58" src="https://user-images.githubusercontent.com/85118325/183265388-e319308b-765b-482a-83ba-5153ed0e8e17.png">
 
 
 
