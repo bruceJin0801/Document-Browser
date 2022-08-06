@@ -1,9 +1,7 @@
 
 <h1>Doucument Reader</h1>
 
-Build an application for browsing files on your local file system and displaying their contents.
-
-The program displays a list of files and directories on the left, and a contents pane on the right. The users are able to use the keyboard to navigate through the file system, and the contents pane will update to reflect the contents of the currently selected file for supported file types.
+> This is an application for browsing files on your local file system and displaying their contents.The program displays a list of files and directories on the left, and a contents pane on the right. The users are able to use the keyboard to navigate through the file system, and the contents pane will update to reflect the contents of the currently selected file for supported file types.
 
 <h2>1. Technique: </h2>
 
